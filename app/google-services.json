@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "438566804946",
+    "firebase_url": "https://shopapplication-d758c.firebaseio.com",
+    "project_id": "shopapplication-d758c",
+    "storage_bucket": "shopapplication-d758c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438566804946:android:2e9b1ddcdedaef5f833c0b",
+        "android_client_info": {
+          "package_name": "pooja.jadhav.shopapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438566804946-sj7498gulmumihdl2uvpqf3kl6uvpbqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pooja.jadhav.shopapplication",
+            "certificate_hash": "b3ad5bea1cff41a21db3a428ebd582105a7962f4"
+          }
+        },
+        {
+          "client_id": "438566804946-aak3vfrnv3pnnpo8p7dhn86g7id31qks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrOp3OdCuO5rBbqbeto9nfR4PlKy2ZvoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438566804946-aak3vfrnv3pnnpo8p7dhn86g7id31qks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
